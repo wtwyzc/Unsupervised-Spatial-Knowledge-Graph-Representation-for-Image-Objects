@@ -12,6 +12,6 @@
   - NebulaGraph
 
 ## procedure（example）
-1. First, the object detection API is used to identify objects in all images, and the image data set containing the computer is extracted
-2. LISA traverses the image dataset, splits and returns a natural language description of the computer's location
-3. Transform multiple computer location descriptions into a knowledge graph with the help of the LlamaIndex and NebulaGraph graph database
+1. 1 First, the object detection API is used to identify objects in all images, and the image data set containing the computer is extracted
+2. 2 LISA traverses the image dataset, splits and returns a natural language description of the computer's location
+3. 3 Transform multiple computer location descriptions into a knowledge graph with the help of the LlamaIndex and NebulaGraph graph database
